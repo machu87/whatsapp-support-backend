@@ -5,7 +5,7 @@ API para inbox de WhatsApp con Twilio y persistencia en MongoDB.
 ## Setup local
 ```powershell
 copy .env.example .env
-# edita .env con tus credenciales/URI
+# editar .env con credenciales/URI
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
